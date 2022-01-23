@@ -376,7 +376,7 @@ def emiko_about_callback(update, context):
             "\n• I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc."
             "\n• I have a note keeping system, blacklists, and even predetermined replies on certain keywords."
             "\n• I check for admins' permissions before executing any command and more stuffs"
-            "\n\n_Emiko's licensed under the GNU General Public License v3.0_"
+            "\n\n_LUNA's licensed under the GNU General Public License v3.0_"
             "\n\n Click on button bellow to get basic help for THECOOLMOON.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -456,8 +456,8 @@ def emiko_about_callback(update, context):
         )
     elif query.data == "emiko_support":
         query.message.edit_text(
-            text="*๏ Emiko support chats*"
-            "\nJoin My Support Group/Channel for see or report a problem on Emiko.",
+            text="*๏ LUNA support chats*"
+            "\nJoin My Support Group/Channel for see or report a problem on LUNA.",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
