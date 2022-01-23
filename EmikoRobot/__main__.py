@@ -88,7 +88,7 @@ PM_START_TEXT = """
 ╠ /settings : 
 ╚══║in PM: will send you your settings for all supported modules.
    ╚ in a Group: will redirect you to pm, with all that chat's settings.
-   Powered by : [ALAN WALKER](https://telegra.ph/file/52b1b195f0d7df5ff79b2.jpg)
+   Powered by : [4R⃣𝗢𝗦𝗘𝗦](https://telegra.ph/file/37a80914bbd02be594363.jpg)
 """
 
 buttons = [
@@ -101,7 +101,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ 𝗔𝗗𝗗 𝗧𝗛𝗘 4 R⃣𝗢𝗦𝗘𝗦 𝗧𝗢 𝗬𝗢𝗨𝗥 G⃣𝗥𝗢𝗨𝗣➗", url="https://t.me/THECOOLMOONROBOT?startgroup=new"
+            text="➗ 𝗔𝗗𝗗 𝗧𝗛𝗘 4 R⃣𝗢𝗦𝗘𝗦 𝗧𝗢 𝗬𝗢𝗨𝗥 G⃣𝗥𝗢𝗨𝗣➗", url="https://t.me/FOURROSESTHEBOT?startgroup=new"
         ),
     ],
 ]
