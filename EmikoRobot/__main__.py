@@ -88,7 +88,7 @@ PM_START_TEXT = """
 ╠ /settings : 
 ╚══║in PM: will send you your settings for all supported modules.
    ╚ in a Group: will redirect you to pm, with all that chat's settings.
-   Powered by : [4R⃣𝗢𝗦𝗘𝗦](https://telegra.ph/file/37a80914bbd02be594363.jpg)
+   Powered by : [4R⃣𝗢𝗦𝗘𝗦](https://telegra.ph/file/3e4e4df94fa8e4e780b97.jpg)
 """
 
 buttons = [
