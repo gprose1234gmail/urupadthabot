@@ -101,7 +101,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ 𝗔𝗗𝗗 𝗧𝗛𝗘 𝗠𝗢𝗢𝗡 To Your Group ➗", url="https://t.me/THECOOLMOONROBOT?startgroup=new"
+            text="➗ 𝗔𝗗𝗗 𝗧𝗛𝗘 𝗠𝗢𝗢𝗡 𝗧𝗢 𝗬𝗢𝗨𝗥 G⃣𝗥𝗢𝗨𝗣➗", url="https://t.me/THECOOLMOONROBOT?startgroup=new"
         ),
     ],
 ]
