@@ -93,7 +93,7 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="𝘼𝘽𝙊𝙐𝙏 𝙏𝙃𝙀 M⃣𝗢𝗢𝗡", callback_data="emiko_"),
+        InlineKeyboardButton(text="𝘼𝘽𝙊𝙐𝙏 𝙏𝙃𝙀 4R⃣𝗢𝗦𝗘𝗦", callback_data="emiko_"),
     ],
     [
         InlineKeyboardButton(text="Get Help", callback_data="help_back"),
@@ -101,7 +101,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ 𝗔𝗗𝗗 𝗧𝗛𝗘 𝗠𝗢𝗢𝗡 𝗧𝗢 𝗬𝗢𝗨𝗥 G⃣𝗥𝗢𝗨𝗣➗", url="https://t.me/THECOOLMOONROBOT?startgroup=new"
+            text="➗ 𝗔𝗗𝗗 𝗧𝗛𝗘 4 R⃣𝗢𝗦𝗘𝗦 𝗧𝗢 𝗬𝗢𝗨𝗥 G⃣𝗥𝗢𝗨𝗣➗", url="https://t.me/THECOOLMOONROBOT?startgroup=new"
         ),
     ],
 ]
